@@ -1,0 +1,13 @@
+{
+  "name": "devtransition-job-benchmark",
+  "version": "0.0.1",
+  "main": "benchmark.js",
+  "dependencies": {
+    "amqplib": "",
+    "when": "",
+    "node-uuid": "",
+    "commander": "",
+    "request-promise": ""
+  },
+  "repository": ""
+}
